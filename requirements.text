@@ -1,7 +1,8 @@
 streamlit
 numpy
 pandas
-plotly
+plotly.express
+plotly.graph_objects
 MinMaxScaler
 json
 http.client
