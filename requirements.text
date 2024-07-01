@@ -1,3 +1,11 @@
 streamlit
 numpy
 pandas
+plotly
+MinMaxScaler
+json
+http.client
+requests
+PdfReader
+BytesIO
+BeautifulSoup
